@@ -1,0 +1,38 @@
+
+
+font-family:SimSun,"microsoft yahei", Helvetica, verdana, Arial, sans-serif;
+
+
+
+font-family:"rougescript-regular", "Helvetica Neue", "Helvetica", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
+
+
+
+rem”√∑®£∫
+@media only screen and (min-width: 641px)
+html {
+    font-size: 125%!important;
+}
+@media only screen and (min-width: 561px)
+html {
+    font-size: 109%!important;
+}
+@media only screen and (min-width: 481px)
+html {
+    font-size: 94%!important;
+}
+@media only screen and (min-width: 376px)
+html {
+    font-size: 73.24%!important;
+}
+@media only screen and (min-width: 361px)
+html {
+    font-size: 70.31%!important;
+}
+@media only screen and (min-width: 321px)
+html {
+    font-size: 62.5%!important;
+}
+html {
+    font-size: 62.5%;
+}
